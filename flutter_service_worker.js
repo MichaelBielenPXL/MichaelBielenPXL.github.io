@@ -4,10 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
-"main.dart.js": "1008bbbaa77eafd4d02fcf7e00857333",
+"main.dart.js": "3896962ea3c315a860a074006d4d6c5b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/AssetManifest.bin": "a1704f9d16e43f3957f9b3b0e8529b84",
-"assets/fonts/MaterialIcons-Regular.otf": "b9ee8688b638df007738d67ae7a82d7f",
+"assets/fonts/MaterialIcons-Regular.otf": "5d2209805d3f0efc36fb6efe454a79ed",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/assets/RedBullGamingHub_Logo.png": "b9a3b6c48006c51f8799c3a7d8785aab",
 "assets/NOTICES": "9389484291e23ffd8e7211fbf1471b55",
@@ -27,13 +27,14 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "canvaskit/canvaskit.wasm": "1f237a213d7370cf95f443d896176460",
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
+"firebase-messaging-sw.js": "d11bd10961c5a6fffe968d8533fd90c1",
 "icons/Icon-maskable-192.png": "da3a393e1c3c8ace9202e53822af578d",
 "icons/Icon-192.png": "da3a393e1c3c8ace9202e53822af578d",
 "icons/Icon-512.png": "72f0ddf85c0feb650daf4a58422fd399",
 "icons/Icon-maskable-512.png": "72f0ddf85c0feb650daf4a58422fd399",
 "favicon.png": "7f75a2244b29632fd384b215579c878a",
-"version.json": "21560d15a9043a304642fedc8b4cce05",
-"flutter_bootstrap.js": "73cc51dd1ff6860849db520483f7a80e"};
+"version.json": "63887d435b04ad744d7b4c1d348ce1b6",
+"flutter_bootstrap.js": "1bde77a91ff0ce07389c3479c9e9b144"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
