@@ -93455,7 +93455,7 @@ g=A.nP(1899,12,30,0,0,0,0).dG(864e8*h)
 if(i.gC(j)>=7){f=i.h(j,6)
 e=B.c.L(f,0,B.c.dg(f," "))
 d=i.h(j,5)}else{d=i.gC(j)>=6?i.h(j,5):"Public opening"
-e="null"}c=i.h(j,2)
+e=null}c=i.h(j,2)
 b=A.a7(["date",""+A.cK(g)+"/"+A.b6(g)+"/"+A.bs(g),"eventType",d,"responsible",e,"time",A.cI(c," ","")],n,m)
 i=i.h(j,2)
 A.ze(A.cI(i," ",""))
