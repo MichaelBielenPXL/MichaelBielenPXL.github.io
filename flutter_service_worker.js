@@ -4,10 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
-"main.dart.js": "65d9ed89d85b1ce8631cef9a27d90825",
+"main.dart.js": "bacb84b215feee23d16c8b88a612f719",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/AssetManifest.bin": "a1704f9d16e43f3957f9b3b0e8529b84",
-"assets/fonts/MaterialIcons-Regular.otf": "b0c418f79e9fe129f70d286c5aba40d8",
+"assets/fonts/MaterialIcons-Regular.otf": "861268aa5f511b664cf7b7bdc186259d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/assets/RedBullGamingHub_Logo.png": "b9a3b6c48006c51f8799c3a7d8785aab",
 "assets/NOTICES": "272c5bf16474a8dc9b59a05236e47ede",
@@ -36,8 +36,8 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "icons/Icon-72.png": "b01f313c0225573dc40498e4ec262d8b",
 "icons/Icon-96.png": "7b678632e098a409e3ef73cc0fb2b04e",
 "favicon.png": "7f75a2244b29632fd384b215579c878a",
-"version.json": "bd5da5ae2c4d34506046bd95a0c6a223",
-"flutter_bootstrap.js": "5c470e625d19fa0d716c8a26a8b49822"};
+"version.json": "5ee9cbb5bcd3ece38aa002e4a47d03af",
+"flutter_bootstrap.js": "aeeaf4a42c918860175c279116a7e02c"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
